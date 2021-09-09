@@ -1,0 +1,36 @@
+Script started on Sat Mar  9 17:10:12 2019
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW3[?1034h[zieli004@empress forHW3]$ ex/cs/recordhw Test.txclear[emacs llist.cpg++ llist.cpp HW3P1client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pemacs llist.cpg++ llist.cpp HW3P1client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pemacs llist.cpg++ llist.cpp HW3P1client.cp[1Pclient.c2client.c[C[1@[1@l[1@l[1@i[1@s[1@t[1@[1[1[1[1[1[1P[1@s[1@l[1@i[1@s[1@t[1@.[1@c[1@p[1@p
+]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW3[zieli004@empress forHW3]$ ./a.out
+slist constructor: 
+Step 1
+Step 2
+Step 3
+|4| |6| |7| |8| 
+Step 4
+Found 6 in location 2
+Step 5
+Step 6
+|4| |0| |7| |8| 
+Step 7
+Found 8 in location 4
+Step 8
+Step 9
+|4| |0| |7| |2| 
+Step 10
+Element 5 not found
+Step 11
+ERROR: Bad position was given
+Deleting all pointers---- First Part testing done ----- 
+slist constructor: 
+slist constructor: 
+true
+false
+false
+true
+false
+false
+false
+Deleting all pointersDeleting all pointers]0;zieli004@empress:~/CS311Progs/HWPrograms/forHW3[zieli004@empress forHW3]$ exit
+exit
+
+Script done on Sat Mar  9 17:10:36 2019
